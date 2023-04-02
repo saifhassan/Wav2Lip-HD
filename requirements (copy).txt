@@ -1,9 +1,0 @@
-1. Run wave2lip-hq on input video (input_videos)
-	python3 inference.py --checkpoint_path "checkpoints/wav2lip_gan.pth" --segmentation_path "checkpoints/face_segmentation.pth" --sr_path "checkpoints/esrgan_yunying.pth" --face "input_videos/1.mp4" --audio "input_audios/ai.wav" --save_frames --gt_path "data/gt" --pred_path "data/lq" --no_sr --no_segmentation --outfile "output_videos_wav2lip/1.mp4"
-	
-2. Extract frames from video (output_videos_wav2lip)
-	python video2frames.py --input_video "output_videos_wav2lip/1.mp4" --frames_path "frames_wav2lip/1"
-	
-3. Perform super-resolution (frames_wav2lip/input_video_name/)
-	
-4. Combine frames and audio (frames_hd, input_audios/audio.wav)
