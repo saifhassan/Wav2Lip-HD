@@ -27,11 +27,11 @@ To test the "Wav2Lip-HD" model, follow these steps:
 
 | Model        | Directory           | Download Link  |
 | :------------- |:-------------| :-----:|
-| Wav2Lip           | [checkpoints/](checkpoints)                                        | [Link](https://drive.google.com/drive/folders/1tB_uz-TYMePRMZzrDMdShWUZZ0JK3SIZ?usp=sharing) |
-| ESRGAN            | experiments/001_ESRGAN_x4_f64b23_custom16k_500k_B16G1_wandb/models | [Link](https://drive.google.com/file/d/1Al8lEpnx2K-kDX7zL2DBcAuDnSKXACPb/view?usp=sharing) |
-| Face_Detection    | face_detection/detection/sfd/                                      | [Link](https://drive.google.com/file/d/1uNLYCPFFmO-og3WSHyFytJQLLYOwH5uY/view?usp=sharing) |
-| Real-ESRGAN       | Real-ESRGAN/gfpgan/weights/                                        | [Link](https://drive.google.com/drive/folders/1BLx6aMpHgFt41fJ27_cRmT8bt53kVAYG?usp=sharing) |
-| Real-ESRGAN       | Real-ESRGAN/weights/                                               | [Link](https://drive.google.com/file/d/1qNIf8cJl_dQo3ivelPJVWFkApyEAGnLi/view?usp=sharing) |
+| Wav2Lip           | [checkpoints/](checkpoints)   | [Link](https://drive.google.com/drive/folders/1tB_uz-TYMePRMZzrDMdShWUZZ0JK3SIZ?usp=sharing) |
+| ESRGAN            | experiments/001_ESRGAN_x4_f64b23_custom16k_500k_B16G1_wandb/models/ | [Link](https://drive.google.com/file/d/1Al8lEpnx2K-kDX7zL2DBcAuDnSKXACPb/view?usp=sharing) |
+| Face_Detection    | face_detection/detection/sfd/ | [Link](https://drive.google.com/file/d/1uNLYCPFFmO-og3WSHyFytJQLLYOwH5uY/view?usp=sharing) |
+| Real-ESRGAN       | Real-ESRGAN/gfpgan/weights/   | [Link](https://drive.google.com/drive/folders/1BLx6aMpHgFt41fJ27_cRmT8bt53kVAYG?usp=sharing) |
+| Real-ESRGAN       | Real-ESRGAN/weights/          | [Link](https://drive.google.com/file/d/1qNIf8cJl_dQo3ivelPJVWFkApyEAGnLi/view?usp=sharing) |
 
 
 2. Put input video to `input_videos` directory and input audio to `input_audios` directory.
