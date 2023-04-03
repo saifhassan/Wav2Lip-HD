@@ -55,8 +55,9 @@ To test the "Wav2Lip-HD" model, follow these steps:
 
 
 ## Results
-<Details>
-<summary> Example output frames </summary>
+The results produced by Wav2Lip-HD are in two forms, one is frames and other is videos. Both are shared below:
+
+### Example output frames </summary>
 <table>
   <tr>
     <td>Frame by Wav2Lip</td>
@@ -78,15 +79,33 @@ To test the "Wav2Lip-HD" model, follow these steps:
   </tr>
  </table>
  </Details>
- 
+
  ### Example output videos
     
-    Video by Wav2Lip
+ | Video by Wav2Lip  | Optimized Video |
+| ------------- | ------------- |
+| <video src="https://user-images.githubusercontent.com/11873763/229389410-56d96244-8c67-4add-a43e-a4900aa9db88.mp4" width="500">  | <video src="https://user-images.githubusercontent.com/11873763/229389414-d5cb6d33-7772-47a7-b829-9e3d5c3945a1.mp4" width="500">|
+| <video src="https://user-images.githubusercontent.com/11873763/229389751-507669f1-7772-4863-ab23-8df7f206a065.mp4" width="500">  | <video src="https://user-images.githubusercontent.com/11873763/229389962-5373b765-ce3a-4af2-bd6a-8be8543ee933.mp4" width="500">|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     
 
-https://user-images.githubusercontent.com/11873763/229388191-d8cc9347-530c-40bc-94ad-c011ef9fd40d.mp4
 
-
-    
-    Optimized for High-Quality Video
-    https://user-images.githubusercontent.com/11873763/229387641-8115c383-1197-4168-af09-d916b9d2d25c.mp4
