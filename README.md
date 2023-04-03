@@ -1,4 +1,4 @@
-# Wav2Lip-HD: High-Fidelity Lip-Syncing with Wav2Lip and Real-ESRGAN
+# Wav2Lip-HD: Improving Wav2Lip to achieve High-Fidelity Videos
 
 This repository contains code for achieving high-fidelity lip-syncing in videos, using the [Wav2Lip algorithm](https://github.com/Rudrabha/Wav2Lip) for lip-syncing and the [Real-ESRGAN algorithm](https://github.com/xinntao/Real-ESRGAN) for super-resolution. The combination of these two algorithms allows for the creation of lip-synced videos that are both highly accurate and visually stunning.
 
