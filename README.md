@@ -55,7 +55,8 @@ To test the "Wav2Lip-HD" model, follow these steps:
 
 
 ## Results
-
+<Details>
+<summary> Example output frames </summary>
 <table>
   <tr>
     <td>Frame by Wav2Lip</td>
@@ -75,5 +76,17 @@ To test the "Wav2Lip-HD" model, follow these steps:
     <td><img src="examples/mona_low.jpg" width=500></td>
     <td><img src="examples/mona_hd.jpg" width=500></td>
   </tr>
-
  </table>
+ </Details>
+ 
+ ### Example output videos
+    
+    Video by Wav2Lip
+    
+
+https://user-images.githubusercontent.com/11873763/229388191-d8cc9347-530c-40bc-94ad-c011ef9fd40d.mp4
+
+
+    
+    Optimized for High-Quality Video
+    https://user-images.githubusercontent.com/11873763/229387641-8115c383-1197-4168-af09-d916b9d2d25c.mp4
