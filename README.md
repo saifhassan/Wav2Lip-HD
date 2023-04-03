@@ -66,7 +66,7 @@ To test the "Wav2Lip-HD" model, follow these steps:
     <td><img src="examples/1_hd.jpg" width=500></td>
   </tr>
     <tr>
-    <td><img src="examples/mona_low.jpg" width=500></td>
+    <td><img src="examples/kennedy_low.jpg" width=500></td>
     <td><img src="examples/kennedy_hd.jpg" width=500></td>
   </tr>
 
