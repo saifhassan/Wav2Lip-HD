@@ -15,6 +15,8 @@ The algorithm for achieving high-fidelity lip-syncing with Wav2Lip and Real-ESRG
 
 ## Testing Model
 
+The repository works with `Python 3.10`.
+
 To test the "Wav2Lip-HD" model, follow these steps:
 
 1. Clone this repository and install requirements using following command (Make sure, Python and CUDA are already installed):
